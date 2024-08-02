@@ -1,0 +1,25 @@
+Select * from company where emp_id = '125';
+Select * from company where salary >= 50000;
+
+
+
+
+
+
+
+
+11111111111111111
+22222222222222222
+33333333333333333
+
+aaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbb
+ccccccccccccccccc
+
+
+
+('105', 'Anusha', 'Designing', 'F', 'Uppal', 'Uppal', '20000'),
+    ('201', 'Rajesh', 'Coder', 'M', 'Roosalpura', 'Hyderabad', '32000'),
+    ('202', 'Ravi Teja', 'Developer', 'M', '100 ft Road', 'Madhapur', '28000'),
+    ('203', 'Sarala', 'Developer', 'F', '6-1-153', 'Uppal', '22000'),
+    ('301', 'Nithesh', 'Editorial Manager', 'M', '14-23', 'Roosalpura', '15000')
